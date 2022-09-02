@@ -11,7 +11,7 @@ Projeto criado durante o curso de React: testando seus componentes da alura
 
 ## 📁 Acesso
 É possivel baixar o projeto nesse <a href="https://github.com/lucash-barbosa/Alura-Amigo-Secreto/archive/refs/heads/master.zip">link</a>
-ou acessar o <a href="https://casa-verde-tau.vercel.app">site</a>
+ou acessar o <a href="https://alura-amigo-secreto-mu.vercel.app">site</a>
 
 ## 🛠️ Abrir e rodar o projeto
 
