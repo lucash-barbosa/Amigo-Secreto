@@ -6,7 +6,7 @@ Projeto criado durante o curso de React: testando seus componentes da alura
 <br />
 
 <div align="center">
-  <img src="screencapture.png" alt="Imagem da Casa Verde" width="70%">
+  <img src="screenshot.png" alt="Imagem do Amigo Secreto" width="70%">
 </div>
 
 ## 📁 Acesso
