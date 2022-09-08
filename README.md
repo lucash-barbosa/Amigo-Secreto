@@ -1,22 +1,35 @@
-<h1 align="center">Alura Amigo Secreto</h1>
-
-Projeto criado durante o curso de React: testando seus componentes da alura
-<br />
-
 <div align="center">
-  <img src="screenshot.png" alt="Imagem do Amigo Secreto" width="70%">
+	<h1>Alura Amigo Secreto</h1>
 </div>
 
-## 📁 Acesso
-É possivel baixar o projeto nesse <a href="https://github.com/lucash-barbosa/Alura-Amigo-Secreto/archive/refs/heads/master.zip">link</a>
-ou acessar o <a href="https://alura-amigo-secreto-mu.vercel.app">site</a>
+
+![shild](https://img.shields.io/github/repo-size/lucash-barbosa/Alura-Amigo-Secreto)
+![shild](https://img.shields.io/github/last-commit/lucash-barbosa/Alura-Amigo-Secreto)
+
+> :book: jogo de amigo secreto
+
+<br>
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | Alura-Amigo-Secreto
+| :label: Tecnologias | react, typescript, jest, recoil
+| :rocket: URL         | <a href="alura-amigo-secreto-mu.vercel.app">Alura-Amigo-Secreto</a>
+| :fire: Desafio     | <a href="https://cursos.alura.com.br/course/react-testando-componentes">Testando componentes</a>
+                                                  
+![Alura-Amigo-Secreto](screenshot.png#vitrinedev)
+
+## 🚀 Acesso
+Para acessar o deploy utilize o link abaixo
+<br>
+[Alura-Amigo-Secreto ↗️](alura-amigo-secreto-mu.vercel.app)
 
 ## 🛠️ Abrir e rodar o projeto
+- [Baixe o projeto](https://github.com/lucash-barbosa/Alura-Amigo-Secreto/archive/refs/heads/main.zip)
+  
+- No terminal:
+  - `cd Desktop/...` (local do projeto)
+  - `npm install`
+  - `npm start`
 
-```bash
-npm install
-npm start
-
-# Abra o programa no navegador pelo link http://localhost:3000/
-```
-
+- Abra o programa no navegador pelo link <a href="http://localhost:3000/">http://localhost:3000/</a>
