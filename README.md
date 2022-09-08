@@ -22,7 +22,7 @@
 ## 🚀 Acesso
 Para acessar o deploy utilize o link abaixo
 <br>
-[Alura-Amigo-Secreto ↗️](alura-amigo-secreto-mu.vercel.app)
+[Alura-Amigo-Secreto ↗️](https://alura-amigo-secreto-mu.vercel.app)
 
 ## 🛠️ Abrir e rodar o projeto
 - [Baixe o projeto](https://github.com/lucash-barbosa/Alura-Amigo-Secreto/archive/refs/heads/main.zip)
