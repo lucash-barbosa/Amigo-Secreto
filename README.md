@@ -19,11 +19,11 @@ Para acessar o deploy utilize o link abaixo
 
 
 ## Técnologias utilizadas
-- React
-- React-router-dom
-- Typescript
-- Jest
-- React-recoil
+- `React`
+- `React-router-dom`
+- `Typescript`
+- `Jest`
+- `React-recoil`
 
 ## 🛠️ Abrir e rodar o projeto
 
