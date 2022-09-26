@@ -31,7 +31,7 @@ Para acessar o deploy utilize o link abaixo
 - [Node 16.17.1](https://nodejs.org/en/)
 
 ### Rodar o projeto
-- Clone o projeto ```git clone https://github.com/lucash-barbosa/Amigo-Secreto.git```
-- Rode ```npm install```
-- Rode ```npm start```
+- Clone o projeto `git clone https://github.com/lucash-barbosa/Amigo-Secreto.git`
+- Rode `npm install`
+- Rode `npm start`
 - Abra o projeto no navegador pelo link <a href="http://localhost:3000/">http://localhost:3000/</a>
