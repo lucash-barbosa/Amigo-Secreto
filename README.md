@@ -9,27 +9,29 @@
 > :book: jogo de amigo secreto
 
 <br>
-
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | Amigo-Secreto
-| :label: Tecnologias | react, typescript, jest, recoil
-| :rocket: URL         | <a href="alura-amigo-secreto-mu.vercel.app">Alura-Amigo-Secreto</a>
-| :fire: Desafio     | <a href="https://cursos.alura.com.br/course/react-testando-componentes">Testando componentes</a>
                                                   
-![Amigo-Secreto](screenshot.png#vitrinedev)
+![](https://github.com/lucash-barbosa/Amigo-Secreto/blob/main/screenshot.png)
 
 ## 🚀 Acesso
 Para acessar o deploy utilize o link abaixo
 <br>
 [Amigo-Secreto ↗️](https://alura-amigo-secreto-mu.vercel.app)
 
-## 🛠️ Abrir e rodar o projeto
-- [Baixe o projeto](https://github.com/lucash-barbosa/Amigo-Secreto/archive/refs/heads/main.zip)
-  
-- No terminal:
-  - `cd Desktop/...` (local do projeto)
-  - `npm install`
-  - `npm start`
 
-- Abra o programa no navegador pelo link <a href="http://localhost:3000/">http://localhost:3000/</a>
+## Técnologias utilizadas
+- React
+- React-router-dom
+- Typescript
+- Jest
+- React-recoil
+
+## 🛠️ Abrir e rodar o projeto
+
+### Setup de ambiente
+- [Node 16.17.1](https://nodejs.org/en/)
+
+### Rodar o projeto
+- Clone o projeto ```git clone https://github.com/lucash-barbosa/Amigo-Secreto.git```
+- Rode ```npm install```
+- Rode ```npm start```
+- Abra o projeto no navegador pelo link <a href="http://localhost:3000/">http://localhost:3000/</a>
